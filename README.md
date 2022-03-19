@@ -1,2 +1,3 @@
 # juniortesztelo
 # első commit
+# Szioa Zoli, Peti voltam...
