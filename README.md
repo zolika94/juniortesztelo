@@ -5,4 +5,4 @@
 # Végre megtaláltalak :)
 # Sziasztok! Ezt az üzenetet a saját gépemről írtam.
 # Megnézem, hogy szinkronizál-e?!
-# Kezdek éhes lenni! Ebből ne akarok konfliktust! :D
+# Kezdek éhes lenni! Ebből nem akarok konfliktust! :D
