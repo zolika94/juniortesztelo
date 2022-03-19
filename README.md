@@ -6,3 +6,5 @@
 # Sziasztok! Ezt az üzenetet a saját gépemről írtam.
 # Megnézem, hogy szinkronizál-e?!
 # Anett! Ebből pedig lesz egy kis konfliktus!
+# teszt
+
