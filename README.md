@@ -7,4 +7,4 @@
 # Megnézem, hogy szinkronizál-e?!
 # Anett! Ebből pedig lesz egy kis konfliktus!
 # teszt
-
+# a fő ágban vagyok.
